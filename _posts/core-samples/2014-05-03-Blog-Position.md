@@ -25,8 +25,3 @@ Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 Sub-templates are exactly templates with the only difference being they
 define another "root" layout/template within their YAML Front Matter.
 This essentially means a template will render inside of another template.
-
-## Next Steps
-
-Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
-or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
