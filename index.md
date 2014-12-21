@@ -1,31 +1,14 @@
 ---
 layout: page
-title: Hello Gary!
-tagline: Gary & Marlin
+title: MarlinDoo
+tagline: Makeing Joywok since 2009.
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## 热浪岛日出
 ![热浪岛日出]({{ site.url }}/assets/images/Redang.jpg)
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
@@ -65,9 +48,10 @@ end
   {% endfor %}
 </ul>
 
-## To-Do 
+## Profiles 
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+github: [http://github.com/MarlinDoo](http://github.com/MarlinDoo)!
+
+stackoverflow: [http://stackoverflow.com/users/1890869/marlin](http://stackoverflow.com/users/1890869/marlin)
 
 
