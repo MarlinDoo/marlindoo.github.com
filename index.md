@@ -5,25 +5,6 @@ tagline: Makeing Joywok since 2009.
 ---
 {% include JB/setup %}
 
-
-## 热浪岛日出
-![热浪岛日出]({{ site.url }}/assets/images/Redang.jpg)
-
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-## site.time: {{ site.time }}
-## site.pages
-
-从下面的截图可以看到：
-![有帮助的截图]({{ site.url }}/assets/images/yeoman_logo.jpeg)
-
 {% highlight ruby linenos %}
 def show
   @widget = Widget(params[:id])
