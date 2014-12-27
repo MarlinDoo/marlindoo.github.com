@@ -1,6 +1,6 @@
 # Recusive vs. Iterative
 
-## 递归算法，即自己调用自己
+## 递归算法，即函数调用自身
 {% highlight javascript linenos %}
 function Foo(n){
     // 迭代算法必须有终止条件
