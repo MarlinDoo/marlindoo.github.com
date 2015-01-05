@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MarlinDoo
-tagline: Makeing Joywok since 2009.
+tagline: Making Joywok since 2009.
 ---
 {% include JB/setup %}
 
