@@ -1,4 +1,8 @@
-# Marionette中Layout与region有什么区别？
+---
+layout: page
+title : Marionette中Layout与region有什么区别？
+header : Post Archive
+---
 
 本文是 Marionette 作者 Derick Bailey 在Stackoverflow上对该问题做的回答。
 

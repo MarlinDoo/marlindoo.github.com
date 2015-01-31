@@ -1,4 +1,8 @@
-# Garbage collection in Backbone.
+---
+layout: page
+title : Garbage collection in Backbone
+header : Post Archive
+---
 
 Javascript doesn't have any manual memory management, and objects you create can't be garbage collected until they are no longer referenced.
 

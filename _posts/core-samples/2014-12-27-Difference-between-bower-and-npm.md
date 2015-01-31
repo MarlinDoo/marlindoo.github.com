@@ -1,4 +1,8 @@
-# Bower 与 NPM 的不同
+---
+layout: page
+title : Bower 与 NPM 的不同
+header : Post Archive
+---
 
 这篇文章翻译自 stackoverflow [Difference between bower and npm](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm/18652918)
 

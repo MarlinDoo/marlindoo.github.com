@@ -5,15 +5,11 @@ tagline: Making Joywok since 2009.
 ---
 {% include JB/setup %}
 
-{% highlight ruby linenos %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
+## Profiles 
+
+github: [http://github.com/MarlinDoo](http://github.com/MarlinDoo)!
+
+stackoverflow: [http://stackoverflow.com/users/1890869/marlin](http://stackoverflow.com/users/1890869/marlin)
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -29,10 +25,6 @@ end
   {% endfor %}
 </ul>
 
-## Profiles 
 
-github: [http://github.com/MarlinDoo](http://github.com/MarlinDoo)!
-
-stackoverflow: [http://stackoverflow.com/users/1890869/marlin](http://stackoverflow.com/users/1890869/marlin)
 
 

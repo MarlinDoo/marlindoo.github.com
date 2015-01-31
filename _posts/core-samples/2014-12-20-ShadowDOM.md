@@ -1,4 +1,8 @@
-# ShadowDOM
+---
+layout: page
+title : ShadowDOM
+header : Post Archive
+---
 
 在Web开发中，有这样一个经典的问题，如何封装自己的代码，使得自己的类库、组件与开发者的代码分离？
 

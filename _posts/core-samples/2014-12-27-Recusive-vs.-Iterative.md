@@ -1,4 +1,8 @@
-# Recusive vs. Iterative
+---
+layout: page
+title : Recusive vs. Iterative
+header : Post Archive
+---
 
 ## 递归算法，即函数调用自身
 {% highlight javascript linenos %}
