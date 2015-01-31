@@ -13,7 +13,7 @@ npm 是管理Node.js模块最常用的工具。npm通过集成[Browserify](http:
 Bower is created solely for the front-end and is optimized with that in mind. The biggest difference is that npm does nested dependency tree (size heavy) while Bower requires a flat dependency tree (puts the burden of dependency resolution on the user).
 
 Bower是前端专用的包依赖管理工具，并为其做了专门的优化。二者最大的不同是，npm需要建立嵌套的树形依赖关系（这使得文件尺寸变得很大），而Bower建立的是平行依赖关系(依赖关系冲突交由用户手工解决)。
-[笔者注] 树形嵌套依赖，意味着每个包自行维护自己的依赖关系。平行依赖关系，包共同依赖同一份组件包。由此，二者的尺寸差别很大，随着依赖包的增长，差距会变得更大。
+【笔者注】 树形嵌套依赖，意味着每个包自行维护自己的依赖关系。平行依赖关系，包共同依赖同一份组件包。由此，二者的尺寸差别很大，随着依赖包的增长，差距会变得更大。
 
 A nested dependency tree means that your dependencies can have its own dependencies which can have their own, and so on. This is really great on the server where you don't have to care much about space and latency. It lets you not have to care about dependency conflicts as all your dependencies use e.g. their own version of Underscore. This obviously doesn't work that well on the front-end. Imagine a site having to download three copies of jQuery.
 
