@@ -21,7 +21,7 @@ React Native 通过Watchman监控代码的变化，并重新编辑。
 
 ## 最后，在react native文件夹中安装并运行node。
 
-    npm install
+    npm install     (使用sudo npm install)
     npm start
 
 OK，使用Xcode中打开react-native/Examples文件夹下面的项目，可以正常编译并运行。
