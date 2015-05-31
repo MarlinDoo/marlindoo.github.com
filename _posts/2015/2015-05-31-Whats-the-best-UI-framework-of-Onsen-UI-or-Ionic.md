@@ -51,6 +51,7 @@ header : Post Archive
 我写了一篇包含了Ionic / Onsen UI变化的更详细的文章，[文章链接](http://www.gajotres.net/ionic-vs-onsenui)。
 
 原文：
+
 # What's the best UI framework of Onsen UI or Ionic?
 
 One year has passed since both frameworks are available on the market. Onsen UI is currently in stable 1.2 version while Ionic is in the last release candidate state.
