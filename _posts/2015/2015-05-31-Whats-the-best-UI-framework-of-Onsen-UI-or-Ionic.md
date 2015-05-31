@@ -8,7 +8,7 @@ header : Post Archive
 
 下面这篇文章翻译自 [http://www.quora.com/Whats-the-best-UI-framework-of-Onsen-UI-or-Ionic](http://www.quora.com/Whats-the-best-UI-framework-of-Onsen-UI-or-Ionic)，作者 [Dragan Gaić](http://www.quora.com/Dragan-Gai%C4%87)。文中对Ionic和OnsenUI客观的比较，使读者能快速对二者的特点有一个了解，并根据项目的需求来确定目标框架。
 
-# OnsenUI和Ionic中，谁是最好的UI框架？
+# OnsenUI和Ionic中，最好的UI框架是哪个？
 
 两个框架诞生至今已经有一年了，OnsenUI目前发布了1.2稳定版，Ionic处于最新发布的候选状态。
 [译者注]2015-03-05 Ionic发布了1.0.0-rc.0版本。
