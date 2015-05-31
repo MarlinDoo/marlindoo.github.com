@@ -5,6 +5,7 @@ header : Post Archive
 ---
 
 最近准备做一个Cordova项目，准备为应用挑选一款移动Web应用UI框架。由于前端一定要使用MV*框架，因此把jQueryMobile直接排除，Github上排名靠前的明星框架就剩下Ionic和OnsenUI，于是找了一些二者比较的文章。
+
 下面这篇文章翻译自 [http://www.quora.com/Whats-the-best-UI-framework-of-Onsen-UI-or-Ionic](http://www.quora.com/Whats-the-best-UI-framework-of-Onsen-UI-or-Ionic)，作者 [Dragan Gaić](http://www.quora.com/Dragan-Gai%C4%87)。文中对Ionic和OnsenUI客观的比较，使读者能快速对二者的特点有一个了解，并根据项目的需求来确定目标框架。
 
 What's the best UI framework of Onsen UI or Ionic?
